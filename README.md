@@ -1,9 +1,7 @@
 # connect4ai-and-game
 
 My attempt to make a AI + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
-THE ALGORITHM WAS NOT MADE BY ME
-And was inspired by this youtube video:https://www.youtube.com/watch?v=XRVA5PMSKKE
-And https://www.youtube.com/kgmit
+Pygame was helped with this https://www.youtube.com/kgmit
 
 
 This was a stepping stone to my goal to make a chess one.
@@ -22,4 +20,4 @@ AI3 tried to patch AI1 and 2 but didnt fully work.
 
 AI3.2 was when all the functions worked as intended but was a ugly text based game.
 
-AI3.2 graphics is being worked on and is AI3.2 + pygame graphics.
+AI3.2 graphics is being worked on and is AI3.2 + pygame graphics with help from https://www.youtube.com/kgmit
