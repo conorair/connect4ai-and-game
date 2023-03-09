@@ -1,14 +1,18 @@
 # connect4ai-and-game
 
-My attempt to make a a1 + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
+My attempt to make a AI + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
+And was inspired by this youtube video:https://www.youtube.com/watch?v=XRVA5PMSKKE
+And the function names where stolen from the first link.
+
+This was a stepping stone to my goal to make a chess one.
 
 This was written in pycharm python 3.9.
 
 has been working on this for 3 months.
 
-orignal is the first game
+orignal is the first game 
 
-working connect 4 is the first working game
+Working connect 4 is the first working game
 
 AI1 was the first attempt and worked in someways but sometimes the gravity function was broken and sometimes the AI would die also there was a attemt to use colours
 
