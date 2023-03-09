@@ -3,8 +3,8 @@
 My attempt to make a AI + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
 THE ALGORITHM WAS NOT MADE BY ME
 And was inspired by this youtube video:https://www.youtube.com/watch?v=XRVA5PMSKKE
-And the function names where stolen from the first link.
-Also BING helped me debug the code.
+And https://www.youtube.com/kgmit
+
 
 This was a stepping stone to my goal to make a chess one.
 
