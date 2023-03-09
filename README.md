@@ -2,6 +2,8 @@
 
 My attempt to make a a1 + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
 
+This was written in pycharm python 3.9.
+
 has been working on this for 2 months.
 
 orignal is the first game
