@@ -4,6 +4,7 @@ My attempt to make a AI + game with the minimax was based on this C++ tutorial h
 THE ALGORITHM WAS NOT MADE BY ME
 And was inspired by this youtube video:https://www.youtube.com/watch?v=XRVA5PMSKKE
 And the function names where stolen from the first link.
+Also BING helped me debug the code.
 
 This was a stepping stone to my goal to make a chess one.
 
