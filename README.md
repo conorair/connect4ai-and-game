@@ -1,14 +1,9 @@
 # connect4ai-and-game
 
 My attempt to make a AI + game with the minimax was based on this C++ tutorial http://blog.gamesolver.org/solving-connect-four/03-minmax/#:~:text=The%20MinMax%20algorithm,that%20will%20maximize%20your%20score.
-Pygame was helped with this https://www.youtube.com/kgmit
+Pygame graphics was helped with this tutorial https://www.youtube.com/kgmit
 
-
-This was a stepping stone to my goal to make a chess one.
-
-This was written in pycharm python 3.9.
-
-has been working on this for 3 months.
+this is python.
 
 orignal is the first game 
 
