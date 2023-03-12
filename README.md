@@ -16,3 +16,4 @@ V3 tried to patch AI1 and 2 but didnt fully work.
 
 V3.2 was when the engine managed to work and move check was added.
 V3.2 graphics is being worked on and is AI3.2 + pygame graphics with help from https://www.youtube.com/kgmit
+ 
